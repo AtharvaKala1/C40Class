@@ -1,1 +1,1 @@
-# C40Class
+# C-40CLASS
